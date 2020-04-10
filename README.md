@@ -1,4 +1,4 @@
-# Teckno
+* Teckno
 Teckno Class
 
-## First 
+** First 
